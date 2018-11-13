@@ -11,6 +11,6 @@ git init #官网是有这行的，但我的项目里给注释掉了，因为我�
  
 git add -A
 git commit -m 'deploy'
-git push -f https://github.com/monologueH/monologueH.github.io.git master:gh-pages
+git push -f https://github.com/monologueH/monologueH.github.io.git master:master
  
 cd -
