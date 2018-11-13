@@ -5,7 +5,7 @@ module.exports = {
     ['link', { rel: 'manifest', href: '/manifest.json' }],
     ['link', { rel: 'apple-touch-icon', href: '/img/logo.png' }],
   ],
-  base: '/blog',
+  base: '/',
   themeConfig: {
     nav: [
       { text: '博客首页', link: '/' }
