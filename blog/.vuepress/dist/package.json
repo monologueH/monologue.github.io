@@ -4,7 +4,6 @@
   },
   "scripts": {
     "blog:dev": "vuepress dev blog",
-    "blog:build": "vuepress build blog",
-    "deploy": "bash deploy.sh"
+    "blog:build": "vuepress build blog"
   }
 }
