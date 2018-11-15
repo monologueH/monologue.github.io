@@ -2,8 +2,9 @@ module.exports = {
   title: 'zhouhannan\'s blog',  // 设置网站标题
   description: 'zhouhannan\'s blog',
   head: [
+    ['link', { rel: 'icon', href: '/logo.ico' }],
     ['link', { rel: 'manifest', href: '/manifest.json' }],
-    ['link', { rel: 'apple-touch-icon', href: '/img/logo.png' }],
+    ['link', { rel: 'apple-touch-icon', href: '/logo.png' }],
   ],
   base: '/',
   themeConfig: {
